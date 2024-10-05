@@ -1,3 +1,5 @@
 # Rapido
 
-Development of a mobile application that allows customers to place on-site orders in a restaurant, streamlining the ordering process.
+• Development of a mobile application that allows customers to place on-site orders in a restaurant, streamlining the ordering process.
+
+• Technologies : React Native, Firebase.
